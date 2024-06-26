@@ -1,4 +1,4 @@
-## Hi there, nice to meet you all. 👋
+## Nice to meet you all. 👋
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogoShota&layout=compact&show_icons=true&theme=onedark" />
